@@ -35,7 +35,7 @@ const logout = () => {
 <footer>
   <div class="footer">
       <div class="img-foot">
-        <img src="./assets/logoCindy.png" alt="logo" width="40px">
+        <!-- <img src="./assets/LogoCindy.png" alt="logo" width="40px"> -->
       </div>
       <div class="logo">
         <div class="logo-git">
